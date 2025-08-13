@@ -1,3 +1,38 @@
+# Community Event & Volunteer Matching Platform
+
+A full-stack MERN application that allows users to create, browse, and RSVP for community events. Includes secure authentication, responsive design, and efficient event management features.
+
+## 🚀 Features
+- **User Authentication** – Secure JWT-based login/signup with role-based access control.
+- **Event Management** – Create, edit, delete, and RSVP to events.
+- **Responsive Design** – Mobile-friendly UI built with Bootstrap.
+- **Filtering & Pagination** – Easy navigation through events list.
+- **Performance Optimization** – Optimized MongoDB queries and REST APIs for faster data retrieval.
+
+## 🛠 Tech Stack
+- **Frontend:** React, Bootstrap, Axios, React Router
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose
+- **Authentication:** JSON Web Tokens (JWT), bcrypt.js
+- **Other Tools:** CORS, dotenv, nodemon
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/community-event-platform.git
+   cd community-event-platform
+Install dependencies
+
+Backend
+
+bash
+cd server
+npm install
+Frontend
+
+bash
+cd client
+npm install
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
